@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Suite1]">
+  <test thread-count="5" name="Command line test 219d275f-cb2c-4f34-9473-edf193e5c329(failed)">
+    <classes>
+      <class name="org.testing.testscripts.TC1">
+        <methods>
+          <include name="setup"/>
+          <include name="close"/>
+          <include name="test"/>
+        </methods>
+      </class> <!-- org.testing.testscripts.TC1 -->
+    </classes>
+  </test> <!-- Command line test 219d275f-cb2c-4f34-9473-edf193e5c329(failed) -->
+</suite> <!-- Failed suite [Suite1] -->

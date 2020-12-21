@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="16605" started-at="2020-12-18T11:43:10Z" finished-at="2020-12-18T11:43:26Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="16605" started-at="2020-12-18T11:43:10Z" finished-at="2020-12-18T11:43:26Z">
+      <class name="popupHandling.PopupHandling1">
+        <test-method status="PASS" signature="setup()[pri:0, instance:popupHandling.PopupHandling1@3e6fa38a]" name="setup" is-config="true" duration-ms="14237" started-at="2020-12-18T11:43:10Z" finished-at="2020-12-18T11:43:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="popup1()[pri:0, instance:popupHandling.PopupHandling1@3e6fa38a]" name="popup1" duration-ms="2347" started-at="2020-12-18T11:43:24Z" finished-at="2020-12-18T11:43:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- popup1 -->
+        <test-method status="PASS" signature="close()[pri:0, instance:popupHandling.PopupHandling1@3e6fa38a]" name="close" is-config="true" duration-ms="1" started-at="2020-12-18T11:43:26Z" finished-at="2020-12-18T11:43:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+      </class> <!-- popupHandling.PopupHandling1 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
